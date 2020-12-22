@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7cca6b4-3cf8-415d-a8d7-b01b0983f466" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lyr0yxUa7jbnpDHnf0FBcolJUE" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/utilities" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="step_definitions" />
+      <recent name="runners" />
+      <recent name="pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/utilities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="samplecreation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7cca6b4-3cf8-415d-a8d7-b01b0983f466" name="Default Changelist" comment="" />
+      <created>1608579952957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608579952957</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1411" height="380" key="GridCell.Tab.0.bottom" timestamp="1608604640360">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="782" height="367" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608589554180" />
+    <state width="1411" height="380" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1608604640360" />
+    <state width="1582" height="367" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1608580781533" />
+    <state width="1411" height="380" key="GridCell.Tab.0.center" timestamp="1608604640359">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="782" height="367" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608589554178" />
+    <state width="1411" height="380" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1608604640359" />
+    <state width="1582" height="367" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1608580781532" />
+    <state width="1411" height="380" key="GridCell.Tab.0.left" timestamp="1608604640358">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="782" height="367" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608589554177" />
+    <state width="1411" height="380" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1608604640358" />
+    <state width="1582" height="367" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1608580781531" />
+    <state width="1411" height="380" key="GridCell.Tab.0.right" timestamp="1608604640359">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="782" height="367" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608589554179" />
+    <state width="1411" height="380" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1608604640359" />
+    <state width="1582" height="367" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1608580781532" />
+  </component>
+</project>
