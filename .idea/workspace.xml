@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7cca6b4-3cf8-415d-a8d7-b01b0983f466" name="Default Changelist" comment="" />
+    <list default="true" id="f7cca6b4-3cf8-415d-a8d7-b01b0983f466" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/RedShelfLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/RedShelfSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/RedShelf_Login_StepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/RedShelf_Search_StepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/redshelfLogin.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/redshelfSearch.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/RedShelfMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/RedShelfHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/RedShelf_StepDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/redshelf.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/redshelf.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/RedShelfMainPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runners/CukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/RedShelf_StepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Config.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,6 +46,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1lyr0yxUa7jbnpDHnf0FBcolJUE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +55,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/utilities" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -72,29 +105,61 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1411" height="380" key="GridCell.Tab.0.bottom" timestamp="1608604640360">
+    <state x="1680" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608661299726">
+      <screen x="1680" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1680" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1608661299726" />
+    <state x="532" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608783328180">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="782" height="367" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608589554180" />
-    <state width="1411" height="380" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1608604640360" />
+    <state x="532" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1608783328180" />
+    <state width="1577" height="196" key="GridCell.Tab.0.bottom" timestamp="1608834357794">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1628" height="306" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608764077063" />
+    <state width="1577" height="196" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1608834357794" />
     <state width="1582" height="367" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1608580781533" />
-    <state width="1411" height="380" key="GridCell.Tab.0.center" timestamp="1608604640359">
+    <state width="1551" height="346" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1608766526707" />
+    <state width="1423" height="298" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1608674420067" />
+    <state width="1577" height="196" key="GridCell.Tab.0.center" timestamp="1608834357793">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="782" height="367" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608589554178" />
-    <state width="1411" height="380" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1608604640359" />
+    <state width="1628" height="306" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608764077062" />
+    <state width="1577" height="196" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1608834357793" />
     <state width="1582" height="367" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1608580781532" />
-    <state width="1411" height="380" key="GridCell.Tab.0.left" timestamp="1608604640358">
+    <state width="1551" height="346" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1608766526706" />
+    <state width="1423" height="298" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1608674420067" />
+    <state width="1577" height="196" key="GridCell.Tab.0.left" timestamp="1608834357792">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="782" height="367" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608589554177" />
-    <state width="1411" height="380" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1608604640358" />
+    <state width="1628" height="306" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608764077062" />
+    <state width="1577" height="196" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1608834357792" />
     <state width="1582" height="367" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1608580781531" />
-    <state width="1411" height="380" key="GridCell.Tab.0.right" timestamp="1608604640359">
+    <state width="1551" height="346" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1608766526705" />
+    <state width="1423" height="298" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1608674420066" />
+    <state width="1577" height="196" key="GridCell.Tab.0.right" timestamp="1608834357793">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="782" height="367" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608589554179" />
-    <state width="1411" height="380" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1608604640359" />
+    <state width="1628" height="306" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608764077063" />
+    <state width="1577" height="196" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1608834357793" />
     <state width="1582" height="367" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1608580781532" />
+    <state width="1551" height="346" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1608766526706" />
+    <state width="1423" height="298" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1608674420067" />
+    <state width="1423" height="286" key="GridCell.Tab.1.bottom" timestamp="1608783666174">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1423" height="286" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1608783666174" />
+    <state width="1423" height="286" key="GridCell.Tab.1.center" timestamp="1608783666174">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1423" height="286" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1608783666174" />
+    <state width="1423" height="286" key="GridCell.Tab.1.left" timestamp="1608783666174">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1423" height="286" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1608783666174" />
+    <state width="1423" height="286" key="GridCell.Tab.1.right" timestamp="1608783666174">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1423" height="286" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1608783666174" />
   </component>
 </project>

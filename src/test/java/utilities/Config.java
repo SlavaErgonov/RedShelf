@@ -20,7 +20,6 @@ public class Config {
     }
 
     public static String get(String keyName) {
-
         return properties.getProperty(keyName);
 
     }
